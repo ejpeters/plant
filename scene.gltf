@@ -259,16 +259,16 @@
   ],
   "images": [
     {
-      "uri": "textures/Leaf2_baseColor.png"
+      "uri": "Leaf2_baseColor.png"
     },
     {
-      "uri": "textures/Leaf2_normal.png"
+      "uri": "Leaf2_normal.png"
     },
     {
-      "uri": "textures/plant_baseColor.png"
+      "uri": "plant_baseColor.png"
     },
     {
-      "uri": "textures/plant_normal.png"
+      "uri": "plant_normal.png"
     }
   ],
   "materials": [
